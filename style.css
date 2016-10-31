@@ -4,5 +4,11 @@ background-color: #fdf8ee;
 h1 {
 text-align: center;
 font-size: 48px;
-font-family: "Algerian";
+font-family: "Indie Flower";
+}
+p {
+text-align: center;
+font-size: 28px;
+text-decoration: underline;
+font-family: "Cambria";
 }
