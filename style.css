@@ -6,3 +6,9 @@ text-align: center;
 font-size: 48px;
 font-family: "Indie Flower";
 }
+h2 {
+text-align: center;
+font-size: 28px;
+text-decoration: underline;
+font-family: "Cambria", "Times New Roman", serif;
+}
